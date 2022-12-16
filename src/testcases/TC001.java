@@ -7,5 +7,9 @@ public class TC001 {
         //testing some stuff
 
         //more testing
+
+        //positive testing
+
+        //negative testing
     }
 }
